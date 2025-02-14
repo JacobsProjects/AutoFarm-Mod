@@ -2,6 +2,7 @@
 # AutoFarm Mod
 
 A simple Fabric mod for Minecraft that automates common tasks like auto-swinging, auto-eating, and auto-logging out based on health. Perfect for use in an SMP server or solo play!
+Please make sure this is allowed on the server you're playing on before using
 
 ## Features
 
@@ -13,7 +14,7 @@ A simple Fabric mod for Minecraft that automates common tasks like auto-swinging
 ## Installation
 
 1. Install **Fabric** and **Fabric API**.
-2. Download the mod's `.jar` file from the releases page (or clone this repo and build it yourself).
+2. Download the mod's `.jar` file from the releases page (or build it yourself).
 3. Place the `.jar` file in the `mods` folder of your Minecraft setup.
 4. Launch Minecraft with Fabric loader.
 
@@ -29,12 +30,12 @@ Use the in-game menu to adjust these values to your liking.
 
 ## Controls
 
-- **Toggle Mod**: Press the configured key to toggle the mod on or off.
 - **Menu**: Open the mod settings menu with the assigned key.
 
 ## Keybindings
 
 You can customize the keybindings for toggling the mod and opening the menu. This is set within the Minecraft options under **Controls**.
+The default key is U.
 
 ## Usage
 
